@@ -13,7 +13,8 @@ def second_challenge
           :status =>"Alive"},
         :hero_friends => {
           :name => "Benvolio",
-          :age=> ""
+          :age=> "17",
+          :attitude
         }  
       }, 
     :capulet => {
