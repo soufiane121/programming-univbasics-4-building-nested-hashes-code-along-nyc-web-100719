@@ -12,9 +12,13 @@ def second_challenge
           :age => "15",
           :status =>"Alive"},
         :hero_friends => {
+          :friend1 =>{
           :name => "Benvolio",
           :age=> "17",
-          :attitude=> "worried"
+          :attitude=> "worried"},
+          :friend2 => {
+            :name=>
+          }
         }  
       }, 
     :capulet => {
