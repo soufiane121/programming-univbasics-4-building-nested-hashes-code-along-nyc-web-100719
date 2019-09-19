@@ -8,7 +8,9 @@ def second_challenge
           :name => "Lady Montague",
           :age => "54"},
        :hero => {
-          :name=> "Romeo"
+          :name=> "Romeo",
+          :age => "15",
+          :statu
             
           }
       }, 
