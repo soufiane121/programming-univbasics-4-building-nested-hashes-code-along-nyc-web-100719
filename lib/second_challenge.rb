@@ -35,7 +35,9 @@ def second_challenge
           :age => "15",
           :status => "Alive"},
         :heroine_friends =>{
-          :name=>
+          :friend1 =>{
+            :name=> ""
+          }
         }  
     }
     
