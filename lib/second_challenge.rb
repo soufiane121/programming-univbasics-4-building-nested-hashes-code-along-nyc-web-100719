@@ -12,7 +12,7 @@ def second_challenge
           :age => "15",
           :status =>"Alive"},
         :hero_friends => {
-          :
+          :name =>
         }  
       }, 
     :capulet => {
