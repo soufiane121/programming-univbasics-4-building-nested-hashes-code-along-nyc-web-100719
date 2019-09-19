@@ -25,9 +25,10 @@ def second_challenge
       }, 
     :capulet => {
        :patriache => {
-          :name => "Lord Capulet"
-       }
-      }
+          :name => "Lord Capulet",
+          :age => "50"},
+          
+    }
     
   }
 
