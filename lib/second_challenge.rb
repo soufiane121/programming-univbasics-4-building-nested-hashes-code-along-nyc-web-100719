@@ -37,8 +37,11 @@ def second_challenge
         :heroine_friends =>{
           :friend1 =>[{
             :name=> "Steven",
-            :age => 
-          }
+            :age => "30"
+            :attitude => "confused"}],
+          :friend2 =>[{
+            :name=> 
+          }]  
         }  
     }
     
