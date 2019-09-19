@@ -17,7 +17,7 @@ def second_challenge
           :age=> "17",
           :attitude=> "worried"},
           :friend2 => {
-            :name=>
+            :name=> "mercutio"
           }
         }  
       }, 
